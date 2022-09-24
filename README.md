@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mdzoul
 - 👀 I’m interested in AI and Machine Learning, especially in the healthcare sector.
-- 🌱 I’m currently learning HTML, CSS and Python
+- 🌱 I’m currently taking on the 100DaysOfCode challenge!
 - 💞️ I’m looking to collaborate on AI in Healthcare and new ideas to create a better, more seamless healthcare industry.
 - 📫 How to reach me:
 - IG: @mdzoul
