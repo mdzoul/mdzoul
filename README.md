@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 🌟 Top Repositories
 
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=mdzoul&repo=repo-name&theme=radical)](https://github.com/mdzoul/repo-name)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=mdzoul&repo=repo-name&theme=radical)](https://github.com/mdzoul/Password-Manager)
 
 ## 📫 Connect with Me
 
