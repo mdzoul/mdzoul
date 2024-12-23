@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - 🌱 I’m always learning and exploring new technologies.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about web development, Python, and JavaScript.
-- 📫 How to reach me: [mdzoul@example.com](mailto:mdzoul@example.com)
-- ⚡ Fun fact: I enjoy hiking and photography in my free time.
+- 📫 How to reach me: [zoulaimi@gmail.com](mailto:zoulaimi@gmail.com)
+- ⚡ Fun fact: I enjoy hiking and rock climbing in my free time.
 
 ## 🛠️ Technologies & Tools
 
@@ -31,8 +31,3 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - [LinkedIn](https://www.linkedin.com/in/mdzoul/)
 
 Thank you for visiting my profile! Have a great day! 😊
-
-<!---
-mdzoul/mdzoul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
