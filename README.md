@@ -1,7 +1,7 @@
 # Hi there, I'm Zoul 👋 (`@mdzoul`)
 
 > **Systems & Infrastructure Enthusiast • Biomedical Engineering Student**  
-> *Homelab Architecture • Hardware Revival • Network & Security Tooling • Digital Sovereignty*  
+> *Homelab Architecture • Hardware Revival • Network Systems & Automation • Digital Sovereignty*  
 > 🌐 **Digital Garden:** [zoulgarden.tail8019e.ts.net](https://zoulgarden.tail8019e.ts.net)  
 
 ---
@@ -10,7 +10,7 @@
 
 - 🏠 **Homelab Architecture & Digital Sovereignty:** Building self-hosted micro-services on Proxmox VE 8, Tailscale mesh routing to bypass CGNAT, AdGuard Home DNS, and private Gitea version control.
 - ♻️ **Hardware Revival & Embedded Sideloading:** Breathing second lives into legacy parts and appliances—from converting laptops into dedicated Batocera retro-consoles to sideloading homebrew streaming suites onto Samsung Tizen Smart TVs with SDB and partner certificates.
-- 🔍 **Network Systems & Security Tooling:** Engineering custom network tools with Python/Scapy, packet dissection via Wireshark/Tshark, and defensive system observability across Linux and Windows.
+- 🔍 **Network Systems & Observability:** Analyzing packet flows with Wireshark/Tshark, socket programming in Python, and system observability across Linux and Windows environments.
 - 🧬 **Biomedical Engineering (BSc Hons, SUSS):** Applying computational mechanics, Finite Element Analysis (FEA), clinical robotics fundamentals, and scientific data analytics.
 
 ---
@@ -20,7 +20,7 @@
 | Domain | Technologies & Tooling |
 | :--- | :--- |
 | **Operating Systems & Hypervisors** | Arch Linux (Omarchy / Hyprland), Debian, Proxmox VE 8, Batocera, Tizen OS, Windows |
-| **Networking & Self-Hosted Infra** | Tailscale Mesh, Docker Containers, AdGuard Home, Gitea, Wireshark, Scapy, Nmap |
+| **Networking & Self-Hosted Infra** | Tailscale Mesh, Docker Containers, AdGuard Home, Gitea, Wireshark, Nginx |
 | **Languages & Scripting** | Python, Bash, C / C++, R, JavaScript / TypeScript / HTML / CSS |
 | **Terminal & Toolchain** | Neovim, Tmux, Starship, Astro, Git, lazygit |
 
