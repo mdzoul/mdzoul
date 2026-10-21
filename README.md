@@ -2,6 +2,7 @@
 
 > **Systems & Infrastructure Enthusiast • Biomedical Engineering Student**  
 > *Homelab Architecture • Hardware Revival • Network & Security Tooling • Digital Sovereignty*  
+> 🌐 **Digital Garden:** [zoulgarden.tail8019e.ts.net](https://zoulgarden.tail8019e.ts.net)  
 
 ---
 
