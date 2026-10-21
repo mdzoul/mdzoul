@@ -2,7 +2,6 @@
 
 > **Systems & Infrastructure Enthusiast • Biomedical Engineering Student**  
 > *Homelab Architecture • Hardware Revival • Network & Security Tooling • Digital Sovereignty*  
-> 🌐 **Digital Garden:** [mdzoul.dev/garden](https://mdzoul.dev/garden) • 💼 **LinkedIn:** [linkedin.com/in/mdzoul](https://www.linkedin.com/in/mdzoul/)
 
 ---
 
