@@ -1,34 +1,46 @@
-# Hi there, I'm mdzoul! 👋
+# Hi there, I'm Zoul 👋 (`@mdzoul`)
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding and technology. Here's a bit about me:
+> **Systems & Infrastructure Enthusiast • Biomedical Engineering Student**  
+> *Homelab Architecture • Hardware Revival • Network & Security Tooling • Digital Sovereignty*  
+> 🌐 **Digital Garden:** [mdzoul.dev/garden](https://mdzoul.dev/garden) • 💼 **LinkedIn:** [linkedin.com/in/mdzoul](https://www.linkedin.com/in/mdzoul/)
 
-## 🚀 About Me
+---
 
-- 🔭 I’m currently working on various exciting projects.
-- 🌱 I’m always learning and exploring new technologies.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about web development, Python, and JavaScript.
-- 📫 How to reach me: [zoulaimi@gmail.com](mailto:zoulaimi@gmail.com)
-- ⚡ Fun fact: I enjoy hiking and rock climbing in my free time.
+## ⚡ What I Build & Explore
 
-## 🛠️ Technologies & Tools
+- 🏠 **Homelab Architecture & Digital Sovereignty:** Building self-hosted micro-services on Proxmox VE 8, Tailscale mesh routing to bypass CGNAT, AdGuard Home DNS, and private Gitea version control.
+- ♻️ **Hardware Revival & Embedded Sideloading:** Breathing second lives into legacy parts and appliances—from converting laptops into dedicated Batocera retro-consoles to sideloading homebrew streaming suites onto Samsung Tizen Smart TVs with SDB and partner certificates.
+- 🔍 **Network Systems & Security Tooling:** Engineering custom network tools with Python/Scapy, packet dissection via Wireshark/Tshark, and defensive system observability across Linux and Windows.
+- 🧬 **Biomedical Engineering (BSc Hons, SUSS):** Applying computational mechanics, Finite Element Analysis (FEA), clinical robotics fundamentals, and scientific data analytics.
 
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks:** React, Node.js, Django
-- **Tools:** Git, Docker, VS Code
-- **Databases:** MySQL, MongoDB
+---
 
-## 📊 GitHub Stats
+## 🛠️ Technical Arsenal
 
-![mdzoul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdzoul&show_icons=true&theme=radical)
+| Domain | Technologies & Tooling |
+| :--- | :--- |
+| **Operating Systems & Hypervisors** | Arch Linux (Omarchy / Hyprland), Debian, Proxmox VE 8, Batocera, Tizen OS, Windows |
+| **Networking & Self-Hosted Infra** | Tailscale Mesh, Docker Containers, AdGuard Home, Gitea, Wireshark, Scapy, Nmap |
+| **Languages & Scripting** | Python, Bash, C / C++, R, JavaScript / TypeScript / HTML / CSS |
+| **Terminal & Toolchain** | Neovim, Tmux, Starship, Astro, Git, lazygit |
 
-## 🌟 Featured Showcases
+---
+
+## 🌟 Featured Projects
 
 [![Samsung Tizen Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=mdzoul&repo=samsung-tizen-toolkit&theme=radical)](https://github.com/mdzoul/samsung-tizen-toolkit)
 [![Fly Within Budget](https://github-readme-stats.vercel.app/api/pin/?username=mdzoul&repo=Fly-Within-Budget&theme=radical)](https://github.com/mdzoul/Fly-Within-Budget)
 
-## 📫 Connect with Me
+---
 
-- [LinkedIn](https://www.linkedin.com/in/mdzoul/)
+## 📊 GitHub Analytics
 
-Thank you for visiting my profile! Have a great day! 😊
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=mdzoul&show_icons=true&theme=radical&hide_border=true" alt="Zoul's GitHub Stats" />
+</div>
+
+---
+
+<div align=center>
+  <sub>Reviving hardware & reclaiming digital sovereignty. Self-hosted on Gitea • Mirrored to GitHub.</sub>
+</div>
