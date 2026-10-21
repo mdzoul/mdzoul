@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 🌟 Featured Showcases
 
+[![Samsung Tizen Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=mdzoul&repo=samsung-tizen-toolkit&theme=radical)](https://github.com/mdzoul/samsung-tizen-toolkit)
 [![Fly Within Budget](https://github-readme-stats.vercel.app/api/pin/?username=mdzoul&repo=Fly-Within-Budget&theme=radical)](https://github.com/mdzoul/Fly-Within-Budget)
-[![Medicine Tracker](https://github-readme-stats.vercel.app/api/pin/?username=mdzoul&repo=Medicine-Tracker&theme=radical)](https://github.com/mdzoul/Medicine-Tracker)
 
 ## 📫 Connect with Me
 
