@@ -22,9 +22,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ![mdzoul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdzoul&show_icons=true&theme=radical)
 
-## 🌟 Top Repositories
+## 🌟 Featured Showcases
 
-[![Password Manager](https://github-readme-stats.vercel.app/api/pin/?username=mdzoul&repo=Password-Manager&theme=radical)](https://github.com/mdzoul/Password-Manager)
+[![Fly Within Budget](https://github-readme-stats.vercel.app/api/pin/?username=mdzoul&repo=Fly-Within-Budget&theme=radical)](https://github.com/mdzoul/Fly-Within-Budget)
+[![Medicine Tracker](https://github-readme-stats.vercel.app/api/pin/?username=mdzoul&repo=Medicine-Tracker&theme=radical)](https://github.com/mdzoul/Medicine-Tracker)
 
 ## 📫 Connect with Me
 
