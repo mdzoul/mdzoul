@@ -28,6 +28,7 @@
 ## 🌟 Featured Projects
 
 [![Samsung Tizen Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=mdzoul&repo=samsung-tizen-toolkit&theme=radical)](https://github.com/mdzoul/samsung-tizen-toolkit)
+[![Batocera Hardware Revival](https://github-readme-stats.vercel.app/api/pin/?username=mdzoul&repo=batocera-hardware-revival&theme=radical)](https://github.com/mdzoul/batocera-hardware-revival)
 [![Fly Within Budget](https://github-readme-stats.vercel.app/api/pin/?username=mdzoul&repo=Fly-Within-Budget&theme=radical)](https://github.com/mdzoul/Fly-Within-Budget)
 
 ---
